@@ -21,7 +21,7 @@ http://localhost/fblogin/
 Dokumentasi lengkap Facebook PHP SDK
 [https://developers.facebook.com/docs/php/howto/example_facebook_login](https://developers.facebook.com/docs/php/howto/example_facebook_login)
 
-#### Tertarik mengikuti kursus bersama WebHade Creative?
+### Tertarik mengikuti kursus bersama WebHade Creative?
 
 Informasi & Pendaftaran
 
