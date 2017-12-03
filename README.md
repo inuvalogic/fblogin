@@ -6,7 +6,7 @@ Install
 
 1. clone repo ke folder "fblogin" di folder htdocs/www kamu
 2. Install Composer ( https://getcomposer.org/ ) kalau belum
-4. buka command prompt / terminal dan masuk folder mvc, lalu running:
+4. buka command prompt / terminal dan masuk folder fblogin, lalu running:
 
 ```sh
 $ composer install
