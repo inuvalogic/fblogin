@@ -28,6 +28,8 @@ if (isset($_SESSION['fb_access_token']))
 
 	echo '<p>Name using $user[\'name\'] : ' . $user['name'] . '</p>';
 	echo '<p>Name using $user->getName() : ' . $user->getName() . '</p>';
+	echo '<p>Email : ' . $user->getEmail() . '</p>';
+	echo '<p>Gender : ' . $user->getGender() . '</p>';
 	echo '<p>full data</p>';
 	echo '<pre>';
 	var_dump($user);
