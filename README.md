@@ -24,5 +24,7 @@ Dokumentasi lengkap Facebook PHP SDK
 #### Tertarik mengikuti kursus bersama WebHade Creative?
 
 Informasi & Pendaftaran
+
 SMS/Telp/Whatsapp 081.321.425.825
+
 [ http://webhade.id/kursus-website/ ]
